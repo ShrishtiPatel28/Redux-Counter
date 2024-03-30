@@ -18,7 +18,7 @@ function Counter() {
           >
             <IoIosArrowUp style={{ fontSize: "42px",color:"#fb7185",opacity:"60%"}} />
           </button>
-          <span className="counter-value text-5xl bg-[#f54654] text-white rounded-3xl w-20 h-20 bg-zinc-300 flex justify-center items-center font-bold" style={{opacity:"90%"}}>
+          <span className="counter-value text-5xl bg-[#f43f5e] text-white rounded-3xl w-20 h-20 bg-zinc-300 flex justify-center items-center font-bold" style={{opacity:"90%"}}>
             {counter}
           </span>
           <button
